@@ -2,8 +2,8 @@
 The main goal of this course is to empower any person to learn computer programming with a clear and practical approach that matches the quality and content levels of a graduation course.
 I already have a similar volunteer project where I teach computer programming target the Portuguese speakers.
 
-We will learn from scratch using the program language python ([https://www.python.org/](https://www.python.org/)) and no previous knowloadge is required (just the basic four math operations). We will cover everythink that is required to make a Junior Computer Programming.
-I will do my best to make the classes as easy is possible, however you need to do you part as well. You can´t act like someone that is going to a gym and just sitting and looking around. You need to put the effort to get any benefit.
+We will learn from scratch using the program language python ([https://www.python.org/](https://www.python.org/)) and no previous knowloadge is required (just the basic four math operations). We will cover everythink that is required to make a Junior Computer Programmer.
+I will do my best to make the classes as easy is possible, however you need to do you part as well. You can't act like someone that is going to a gym and just sitting and looking around. You need to put the effort to get any benefit.
 
 All classes will be a live youtube streaming so you can participate and make questions. I will try to have all classes at the same days and time to make easier for you to schedule for it, however it is not that important to join the live classes. I am doing that way just to force me to focus and to mimic a in person class experience (it does work better for me as I was professor for decades).
 
