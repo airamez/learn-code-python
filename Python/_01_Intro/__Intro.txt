@@ -21,6 +21,6 @@
       # Plenty of videos on YouTube
 
   # Accessing the course content
-    # Repository: https://github.com/airamez/learn-code-python or https://codelearn.live/
+    # Repository: https://github.com/airamez/learn-code-python or http://codelearn.live/
     # GitHub: https://github.com/
-      # Clone course Repository: https://github.com/airamez/learn-code-python.git
+      # Clone course Repository: https://github.com/airamez/learn-code-python.git 

@@ -218,4 +218,6 @@ In addition to being a nerd, he was a competent athlete in different sports.
 
 | Class # | YouTube Video | Files |
 | ------- |------------------------------------|-------|
-| 1 | [Intro](https://www.youtube.com/watch?v=Puc9q1lDXnk) | https://github.com/airamez/learn-code-python/blob/main/Learn-Code-Intro.pdf |
+| 1 | [Intro](https://www.youtube.com/watch?v=Puc9q1lDXnk) | [Learn-Code-Intro.pdf](https://github.com/airamez/learn-code-python/blob/main/Learn-Code-Intro.pdf) |
+| 2 | [More Intro and Hello World](https://www.youtube.com/watch?v=Dlova8FwsBw) | [Python/_01_Intro/_00_HelloWorld.py](https://github.com/airamez/learn-code-python/blob/main/Python/_01_Intro/_00_HelloWorld.py) <br> [Python/_01_Intro/_01_Comments.py](https://github.com/airamez/learn-code-python/blob/main/Python/_01_Intro/_01_Comments.py) |
+
