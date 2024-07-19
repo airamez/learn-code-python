@@ -1,8 +1,16 @@
 """
 VARIABLES
 A computer is a special machine that operates on data (information) and variables are the basic structures to store data/information.
-"""
-"""
+
+Types
+A computer stores any type of information in a binary mode, (like zeroes and ones), that means it is necessary to associate the
+content to types, so the computer interpreter the data as expected.
+Common types in Python:
+- Integer
+- Floating point
+- Boolean
+- String
+
 IDENTIFIERS
 An identifier is a name used to identify something in a program.
 In Python an identifier is case sensitive, and starts with a letter, or
