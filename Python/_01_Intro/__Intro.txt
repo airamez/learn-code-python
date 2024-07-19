@@ -1,16 +1,23 @@
+# Course content
+  # URL: http://codelearn.live
+  # GitHub Repository: https://github.com/airamez/learn-code-python
+  # YouTube Playlist: https://www.youtube.com/playlist?list=PLBQmBWUPdMJTToAiEeDI5MznGuM5D-kvK
+
 # Python
   # Wiki: https://en.wikipedia.org/wiki/Python_(programming_language)
   # URL: https://www.python.org/
   # Documentation: https://docs.python.org/3/
+  # Current Version: 3
   # Created by: Guido van Rossum (https://en.wikipedia.org/wiki/Guido_van_Rossum)
   # Where: Netherlands
   # When: 1980
   # Popularity: https://www.tiobe.com/tiobe-index/
 
 # IDE (Integrated Development Environment)
+  # Online: https://www.online-python.com
   # Visual Studio Code (VS Code): https://code.visualstudio.com/
     # Setup with Python: https://code.visualstudio.com/docs/python/python-tutorial
-    # Plenty of videos on YouTube
+      # Plenty of videos on YouTube
 
   # Accessing the code content
     # Repository: https://github.com/airamez/learn-code-python or https://codelearn.live/
