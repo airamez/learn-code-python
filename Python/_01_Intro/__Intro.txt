@@ -12,6 +12,7 @@
   # Where: Netherlands
   # When: 1980
   # Popularity: https://www.tiobe.com/tiobe-index/
+  # Source Code: https://github.com/python
 
 # IDE (Integrated Development Environment)
   # Online: https://www.online-python.com
@@ -19,7 +20,7 @@
     # Setup with Python: https://code.visualstudio.com/docs/python/python-tutorial
       # Plenty of videos on YouTube
 
-  # Accessing the code content
+  # Accessing the course content
     # Repository: https://github.com/airamez/learn-code-python or https://codelearn.live/
     # GitHub: https://github.com/
       # Clone course Repository: https://github.com/airamez/learn-code-python.git
