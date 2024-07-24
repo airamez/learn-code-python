@@ -64,6 +64,14 @@ approved = 100.5
 first_name = 52
 print('age: ', age, 'approved:', approved, 'first_name', first_name)
 
+# Explain these cases below witht the presentation
+# and show it debugging
+
+name = "Jose Santos"
+age = 52
+name = "Leila"
+
+
 # Mutiple reference to the same variable
 lang_1 = "Python"
 lang_2 = lang_1
@@ -71,3 +79,6 @@ print("lang_1:", lang_1, "; lang_2:", lang_2)
 
 lang_2 = "Java"
 print("lang_1:", lang_1, "; lang_2:", lang_2)
+
+# Attention: Remember to mention that in the future we will learn
+# reference types
