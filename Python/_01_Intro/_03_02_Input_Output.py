@@ -1,18 +1,25 @@
-# Input: read - reads a value from console and returns the value as string
+# Input: input - reads a value from console and returns the value as string
 # Output: print - prints to the console
 
 name = input("What is your name: ")
 
 print("Hello", name)
 
+
 print(f"Hello {name}")
 
-greatings = f"Hello {name}" 
-print(greatings)
+greetings = f"Hello {name}" 
+print(greetings)
+
+# Show the source code implementation for input and print:
+# File: https://github.com/python/cpython/blob/main/Python/bltinmodule.c
+# Functions: 
+#   builtin_input
+#   builtin_print
 
 # WARNING: Remember to show some input of invalid types
 
-n1 = input ("Integer 1: ") # Returns as a String
+n1 = input ("Integer 1: ") # Warning: returns as a String
 n1 = int(input("Integer number 1: ")) # Convert from string to integer
 n2 = int(input("Integer number 2: "))
 average = (n1 + n2) / 2
@@ -23,12 +30,14 @@ n2 = float(input("Float number 2: "))
 average = (n1 + n2) / 2
 print(f"The average of {n1} and {n2} is {average}")
 
-is_married = bool(input("Are you married? ")) # bool() only return false if the input is empty
-print(is_married)
-
 # print() always add a new line
 # To avoid the new line we must to indicate that the end of the string is a empty string
-print("Jose ", end="") # usuful when using looping
+print(n1)
+print(n2)
+print(name)
+print(n1, end="") # useful to split a long print or when using looping
+print(n2, end="")
+print(name, end=" ")
 print("Santos")
 
 # Multiple outputs will be sepated by spaces (We already used this a lot)
