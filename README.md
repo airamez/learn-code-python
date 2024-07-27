@@ -222,12 +222,3 @@ In addition to being a nerd, he was a competent athlete in different sports.
   * React
 
 ## Web Services/API
-
-## Classes
-
-| Class # | YouTube Video | Files |
-| ------- |------------------------------------|-------|
-| 1 | [Intro](https://www.youtube.com/watch?v=Puc9q1lDXnk) | [Learn-Code-Intro.pdf](https://github.com/airamez/learn-code-python/blob/main/Learn-Code-Intro.pdf) |
-| 2 | [More Intro and Hello World](https://www.youtube.com/watch?v=Dlova8FwsBw) | [Python/_01_Intro/_00_HelloWorld.py](https://github.com/airamez/learn-code-python/blob/main/Python/_01_Intro/_00_HelloWorld.py) <br> [Python/_01_Intro/_01_Comments.py](https://github.com/airamez/learn-code-python/blob/main/Python/_01_Intro/_01_Comments.py) |
-| 3 | [Variable and Types](https://www.youtube.com/watch?v=cxqg6XuC1lE) | [Python/_01_Intro/_02_VariablesAndTypes.py](https://github.com/airamez/learn-code-python/blob/main/Python/_01_Intro/_02_VariablesAndTypes.py) <br> [Python/_01_Intro/_02_VariablesAndTypes.odg](https://github.com/airamez/learn-code-python/blob/main/Python/_01_Intro/_02_VariablesAndTypes.odg) |
-| 4 | [Input & Output](https://www.youtube.com/watch?v=gggY4ytYDQU) | [Python/_01_Intro/_03_01_InputOutput.odg](https://github.com/airamez/learn-code-python/blob/main/Python/_01_Intro/_03_01_InputOutput.odg) <br> [Python/_01_Intro/_03_02_Input_Output.py](https://github.com/airamez/learn-code-python/blob/main/Python/_01_Intro/_03_02_Input_Output.py) <br> [Python/_01_Intro/_03_03_Input_Output_Practices.py](https://github.com/airamez/learn-code-python/blob/main/Python/_01_Intro/_03_03_Input_Output_Practices.py)|
