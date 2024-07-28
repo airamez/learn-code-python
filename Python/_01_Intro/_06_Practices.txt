@@ -1,16 +1,19 @@
 Create programs to:
-01. Read a value in miles and convert to kilometers: 1 Mile = 1.60934KM.
-02. Read an integer number and print the three predecessors and successors.
-03. Read two integer numbers A and B and print the result of all arithmetic
+01. Read a speed in miles and convert to kilometers
+02. Read a speed in kilometers and convert to miles
+03. Read an integer number and print the three predecessors and successors.
+04. Read two integer numbers A and B and print the result of all arithmetic
     operations you know for A and B.
-04. Read three integer numbers and calculate the average.
-05. Read the base and length of a rectangle and calculate its area.
-06. Read an integer and print True if the number is Even and False if it is Odd.
-07. Read a temperature in Celsius and convert to Fahrenheit: F = C x 1.8 + 32.
+05. Read three integer numbers and calculate the average.
+06. Read the base and length of a rectangle and calculate its area.
+07. Read the radius of a circle and calculate the area
+08. Read an integer and print True if the number is Even and False if it is Odd.
+07. Read a temperature in Celsius and convert to Fahrenheit
+08. Read a temperature in Fahrenheit and convert to Celsius
 08. Read the buying price (cost), the desired profit percentage and
-    calculate the sales price of a product.
+    calculate the sales price of the product.
 09. Read the buying price (cost), the desired profit percentage and the sales tax % and
-    calculate the final sales price of a product.
+    calculate the final sales price of the product.
 10. Read the name, salary and salary increase percentage and
     print the name and the new salary.
 11. Read the name, salary, years of experience and the numbers of kids of a employee and
@@ -26,10 +29,8 @@ Create programs to:
     print the total sales tax and the total order amount. The sales tax is 12%
 17. Generate a random number from 0 to 9 and allow the user to try 3 times and indicate somehow
     if the user guessed the generated random number correctly
-18. Generate two number from 0 to 100 (exclusive), allow the user to guess a number and indicate
-    if the guessed number by the user is inside the interval
-19. Read the radius of a circle and calculate the area
-    Area = π x radius^2
+18. Generate two number from 0 to 100 (inclusive), allow the user to guess a number and indicate
+    if the guessed number by the user is inside or outside of the interval
 20. Read the capacity of a water of tank and a bucket and calculate how many buckets of water will be
     necessary to fill up the water tank. Calculate as well how much water will be wasted if every
     buckets used to fill the tank is completely full

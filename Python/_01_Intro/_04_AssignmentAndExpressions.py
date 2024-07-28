@@ -1,3 +1,6 @@
+# Assigment opertors
+# https://www.w3schools.com/python/gloss_python_assignment_operators.asp
+
 # The equal sign means assignment.
 # We already used it multiple times :)
 name = "José Santos"
@@ -30,26 +33,29 @@ Augmmented assignments
 print("n1 =", number1)
 
 number1 += 1
-print("n1 atfer += 1 =", number1)
+print("n1 atfer += 1:", number1)
 
 number1 -= 3
-print("n1 after -= 3 =", number1)
+print("n1 after -= 3:", number1)
 
 number1 *= 2
-print("n1 after *2 =", number1)
+print("n1 after *2:", number1)
 
 number1 /= 2
-print("n1 after /=2 =", number1)
+print("n1 after /=2:", number1)
 
 number1 = -number1
-print("n1 after -n1 =", number1)
+print("n1 after -n1:", number1)
+
+number1 += number2
+print("n1 after += number2:", number1)
 
 # THERE IS NO ++ OR -- IN PYTHON :(
 
 # OPERATION PRIORITY
 average = (number1 + number2 + number3) / 3
-print("The average of", number1, ",", number2, "and", number3, "is", average)
+print(f"The average of {number1}, {number2} and {number3}, is {average}")
 
 # Danger
 average = number1 + number2 + number3 / 3
-print("The WRONG average of", number1, ",", number2, "and", number3, "is", average)
+print(f"The WRONG average of {number1}, {number2} and {number3} is {average}")
