@@ -20,7 +20,13 @@ print(number1, number2, number3, name)
 a = b = c = d = e = 15
 print(a, b, c, d, e)
 
+# It is comun to use value of the variable to increment it
+number = number1 + 3
 print("n1 =", number1)
+
+number2 = number3 + 10
+print("n2 =", number2)
+
 
 '''
 Augmmented assignments
