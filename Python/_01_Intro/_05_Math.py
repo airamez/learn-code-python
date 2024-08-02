@@ -2,7 +2,7 @@
 # Operators: https://www.w3schools.com/python/gloss_python_arithmetic_operators.asp
 # Functions: https://docs.python.org/3/library/math.html
 
-# Ue must import the module math 
+# We must import the module math 
 import math
 
 print("Math operations")
@@ -16,8 +16,8 @@ print("(50 - 5 * 6) / 4 =", (50 - 5 * 6) / 4)
 print("(3 + 4) / (1 - 5) =", (3 + 4) / (1 - 5))
 print("10/3 =", 10 / 3)
 
-# Integer division (WARNING: Explain the operation using Draw)
-# // = division
+# Integer division (WARNING: Explain the operation using Drawing)
+# // = integer division
 # % = mod
 print("Integer division")
 print("7 // 2 =", 7 // 2)

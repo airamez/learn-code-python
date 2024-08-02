@@ -49,5 +49,4 @@ print(message)
     Senior: 55 to 75
     Old: 76+
   2 - Read an year and print if it is a Leap Year or Not
-
 '''

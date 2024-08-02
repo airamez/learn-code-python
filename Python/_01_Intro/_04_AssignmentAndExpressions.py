@@ -6,14 +6,14 @@
 name = "José Santos"
 
 # Multiple assigments in one line (PLEASE AVOID IT)
-number1, number2, number3, name = 5, 10, 15, "José Santos"
+number1, number2, number3, name = 5, 10, 15, "Leila"
 print(number1, number2, number3, name)
 
 # This is recommended
-number1 = 5
-number2 = 10
-number3 = 15
-name = "José Santos"
+number1 = 50
+number2 = 100
+number3 = 150
+name = "Artur"
 print(number1, number2, number3, name)
 
 # One value to multiple variables.
@@ -22,10 +22,11 @@ print(a, b, c, d, e)
 
 # It is comun to use value of the variable to increment it
 number = number1 + 3
-print("n1 =", number1)
+print("number1 =", number1)
+print("number =", number)
 
-number2 = number3 + 10
-print("n2 =", number2)
+number2 = number2 + 10
+print("number2 =", number2)
 
 
 '''
@@ -36,25 +37,28 @@ Augmmented assignments
   a /= b    => a = a / b
 '''
 
-print("n1 =", number1)
+print("number1 =", number1)
 
 number1 += 1
-print("n1 atfer += 1:", number1)
+print("number1 atfer += 1:", number1)
 
 number1 -= 3
-print("n1 after -= 3:", number1)
+print("number1 after -= 3:", number1)
 
 number1 *= 2
-print("n1 after *2:", number1)
+print("number1 after *2:", number1)
 
 number1 /= 2
-print("n1 after /=2:", number1)
+print("number1 after /=2:", number1)
 
 number1 = -number1
-print("n1 after -n1:", number1)
+print("number1 after -number1:", number1)
+
+number1 = -number1
+print("number1 after -number1:", number1)
 
 number1 += number2
-print("n1 after += number2:", number1)
+print("number1 after += number2:", number1)
 
 # THERE IS NO ++ OR -- IN PYTHON :(
 
