@@ -18,8 +18,9 @@ Create programs to:
     and the profit.
 13. Read the name, salary and salary increase percentage and
     print the name and the new salary.
-14. Read the name, salary, years of experience and the numbers of kids of a employee and
-    print the name and new salary using the following formula:
+14. Read the name, salary, years of experience and the numbers of kids
+    of a employee and print the name and new salary using the following
+    formula:
     - 0.5% per year of experience
     - 2% per kid
 15. Read two integer numbers and swap the variables content
