@@ -7,20 +7,17 @@ Create programs to:
 05. Read three integer numbers and calculate the average.
 06. Read the base and length of a rectangle and calculate its area.
 07. Read the radius of a circle and calculate the area
-08. Read an integer and print True if the number is Even and 
-    False if it is Odd.
+08. Read an integer and print True if the number is Even and False if it is Odd.
 09. Read a temperature in Celsius and convert to Fahrenheit
 10. Read a temperature in Fahrenheit and convert to Celsius
-11. Read the buying price (cost), the desired profit percentage and
-    calculate the sales price of the product.
-12. Read the buying price (cost), the desired profit percentage and 
-    the sales tax % and calculate the final sales price of the product
-    and the profit.
+11. Read the buying price (cost), and desired profit percentage and calculate the 
+    sales price of the product.
+12. Read the buying price (cost), desired profit % and sales tax % of a 
+    product and calculate the final sales price.
 13. Read the name, salary and salary increase percentage and
-    print the name and the new salary.
-14. Read the name, salary, years of experience and the numbers of kids
-    of a employee and print the name and new salary using the following
-    formula:
+    print the name and the new salary of a employee.
+14. Read the name, salary, years of experience and the numbers of kids of a employee and
+    print the name and new salary using the following formula:
     - 0.5% per year of experience
     - 2% per kid
 15. Read two integer numbers and swap the variables content
