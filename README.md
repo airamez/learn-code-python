@@ -1,4 +1,5 @@
 # About this course
+
 The main goal of this course is to empower any person to learn computer programming with a clear and practical approach that matches the quality and content levels of a graduation course.
 I already have a similar volunteer project where I teach computer programming target the Portuguese speakers.
 
@@ -8,20 +9,23 @@ I will do my best to make the classes as easy is possible, however you need to d
 All classes will be a live youtube streaming so you can participate and make questions. I will try to have all classes at the same days and time to make easier for you to schedule for it, however it is not that important to join the live classes. I am doing that way just to force me to focus and to mimic a in person class experience (it does work better for me as I was professor for decades).
 
 This repository will be used to store the English version of the course. Below are the url for this course content:
+
 - [http://codelearn.live](http://codelearn.live) // This is a URL to this repository, just easier to share
 - [Youtube Playlist](https://www.youtube.com/playlist?list=PLBQmBWUPdMJTToAiEeDI5MznGuM5D-kvK)
 
 The information about the brazilian content are below (Just in case you have a brazilian friend):
+
 - [Github Repository](https://github.com/airamez/IntroToCode_CSharp01)
 - [Youtube Playlist](http://www.codando.live)
 - This course material is all in English but in the live classes I speak in portuguese.
 - Another difference is that the portuguese course uses C# ad programming language.
 
-
 Schedule:
+
 - Tuesdays and Thursdays at 8PM
 
-# About the author
+## About the author
+
 José Santos (better known as Zé Maria) is a software engineer and veteran professor who started in the world of computing in his teens and before the advent of the internet. He had a distinguished career by working in academia as a professor at the Federal Technical School of Sergipe, Tiradentes University, FANESE, and the Federal University of Sergipe. He worked as an IT consultant, programmer, network administrator, systems analyst, and technical leader in Brazil, Canada, and currently in the United States, working in large companies, most recently at Microsoft and currently at Intuit. He was very active as an athlete and won several titles in different sports, including: swimming, volleyball, tae-kwo-do, and full-contact.
 
 In addition to being a nerd, he was a competent athlete in different sports.
@@ -41,191 +45,192 @@ In addition to being a nerd, he was a competent athlete in different sports.
 | 9 | [Basic Operations Practices (Questions 8 to 9)](https://youtube.com/live/s9I333H-FFs) | [Python/_01_Intro/_06_Practices_00.txt](https://github.com/airamez/learn-code-python/blob/main/Python/_01_Intro/_06_Practices_00.txt) <br> [Python/_01_Intro/_06_Practices_08.py: 08. Read an integer and print True if the number is Even and False if it is Odd.](https://github.com/airamez/learn-code-python/blob/main/Python/_01_Intro/_06_Practices_08.py) <br> [Python/_01_Intro/_06_Practices_09.py: 09. Read a temperature in Celsius and convert to Fahrenheit](https://github.com/airamez/learn-code-python/blob/main/Python/_01_Intro/_06_Practices_09.py)|
 | 10| [Basic Operations Practices (Question 10)](https://youtube.com/live/qMTRGRqo28Q) | [Python/_01_Intro/_06_Practices_00.txt](https://github.com/airamez/learn-code-python/blob/main/Python/_01_Intro/_06_Practices_00.txt) <br> [Python/_01_Intro/_06_Practices_10.py: 10. Read a temperature in Fahrenheit and convert to Celsius](https://github.com/airamez/learn-code-python/blob/main/Python/_01_Intro/_06_Practices_10.py)|
 | 11| [Basic Operations Practices (Question 11)](https://youtube.com/live/g5Ql_anq8Qk) | [Python/_01_Intro/_06_Practices_00.txt](https://github.com/airamez/learn-code-python/blob/main/Python/_01_Intro/_06_Practices_00.txt) <br> [Python/_01_Intro/_06_Practices_11.py: 11. Read the buying price (cost), and desired profit percentage and calculate the sales price of the product.](https://github.com/airamez/learn-code-python/blob/main/Python/_01_Intro/_06_Practices_11.py)|
+| 12| [Basic Operations Practices (Question 12)](https://youtube.com/live/DGj173IskMA) | [Python/_01_Intro/_06_Practices_00.txt](https://github.com/airamez/learn-code-python/blob/main/Python/_01_Intro/_06_Practices_00.txt) <br> [Python/_01_Intro/_06_Practices_12.py: 12. Read the buying price (cost), desired profit % and sales tax % of a product and calculate the final sales price.](https://github.com/airamez/learn-code-python/blob/main/Python/_01_Intro/_06_Practices_12.py)|
 
-# Course Content
+## Course Content
 
-## Quick Overview about Software Engineering
+### Quick Overview about Software Engineering
 
-* Application Layers
-  * User Interface (UI) or Front-End
-    * Console
-    * Desktop
-    * Mobile
-    * Web
-  * Server-Side
-  * Data
-* Data Processing Model
-    * Input: Data
-    * Processing
-    * Output: Information
-* Algorithm x Program
+- Application Layers
+  - User Interface (UI) or Front-End
+    - Console
+    - Desktop
+    - Mobile
+    - Web
+  - Server-Side
+  - Data
+- Data Processing Model
+  - Input: Data
+  - Processing
+  - Output: Information
+- Algorithm x Program
 
-## Introduction to Coding with "Python"
+### Introduction to Coding with "Python"
 
-* IDE - Integrated Development Environment
-  * [Visual Studio Code](https://code.visualstudio.com/)
-  * [Jetbrains IntelliJ](https://www.jetbrains.com/idea/)
-* Hello World
-* Comments
-* Variables and Types
-* Input & Output (I/O)
-  * Type Casting
-  * Type Conversion
-  * String Interpolation
-* Basic Operations
-* Random Numbers
-* Logical Expression
-* Math Operations
-* if
-* switch
-* for
-* while
-* do while
-* break and continue
-* Modularization
-  * Subprogram, Subroutine, Routine
-  * Function
-  * Procedure
-  * Parameters types
-  * Recursion
-* Array
-* Multi-Dimensional Array
-* Char
-* Strings
-* Method Main with Args
-* Version Control
-  * Git
-    * Introduction
-    * Conflicts
-    * Branches
-    * Pull Request (PR)
-* Objects Oriented Programming
-  * Abstraction
-  * Class
-  * Object
-  * Constructors
-  * Encapsulation
-    * Access Modifiers
-      * Private
-      * Public
-      * Protected
-      * Internal
-    * Set and Get
-    * Property
-  * Inheritance
-  * Overload
-  * Override
-  * Polymorphism
-  * The object class
-  * Interface
-  * Abstract
-  * Sealed
-  * Static
-  * Indexers
-  * Operator overload
-  * Relationship
-    * Composition
-    * Aggregation
-  * Full Demo
-* Exceptions
-* Unit Testing
-* Parameter type: params
-* Struct
-* Tuple
-* Introduction to Data Structures
-  * Linked List
-  * Doubled Linked List
-  * Queue
-  * Stack
-  * Set
-  * Hashtable
-  * Tree
-    * Binary Tree
-      * Traversal
-        * In-Order
-        * Pre-Order
-        * Post-Order
-        * By level
-    * Binary Search Tree (BST)
-      * Insert
-      * Find
-      * In-Order Traversal
-      * Remove
-  * Heap
-    * Definition
-    * Heapify
-    * Add (Push)
-    * Remove (Pop)
-    * Heap as array
-  * Graphs
-    * Definition
-    * Components
-    * Types
-    * Basic Operation
-    * Find Connection
-      * Depth First Search (DFS)
-      * Breadth First Search (BFS)
-    * Find Path
-      * Depth First Search (DFS)
-      * Breadth First Search (BFS)
-* Big O Notation
-* Binary Search
-* Sorting
-  * Bubble
-  * Selection
-  * Insertion
-  * Quick
-  * Merge
-  * Heap
-* Python Data Structures
-  * List
-  * Queue
-  * Stack
-  * Set
-  * Hash/Map
-  * Dictionary
-  * PriorityQueue
-* Python API
-  * Files
-    * Text
-    * XML
-    * JSON
-  * DateTime
-  * etc
+- IDE - Integrated Development Environment
+  - [Visual Studio Code](https://code.visualstudio.com/)
+  - [Jetbrains IntelliJ](https://www.jetbrains.com/idea/)
+- Hello World
+- Comments
+- Variables and Types
+- Input & Output (I/O)
+  - Type Casting
+  - Type Conversion
+  - String Interpolation
+- Basic Operations
+- Random Numbers
+- Logical Expression
+- Math Operations
+- if
+- switch
+- for
+- while
+- do while
+- break and continue
+- Modularization
+  - Subprogram, Subroutine, Routine
+  - Function
+  - Procedure
+  - Parameters types
+  - Recursion
+- Array
+- Multi-Dimensional Array
+- Char
+- Strings
+- Method Main with Args
+- Version Control
+  - Git
+    - Introduction
+    - Conflicts
+    - Branches
+    - Pull Request (PR)
+- Objects Oriented Programming
+  - Abstraction
+  - Class
+  - Object
+  - Constructors
+  - Encapsulation
+    - Access Modifiers
+      - Private
+      - Public
+      - Protected
+      - Internal
+    - Set and Get
+    - Property
+  - Inheritance
+  - Overload
+  - Override
+  - Polymorphism
+  - The object class
+  - Interface
+  - Abstract
+  - Sealed
+  - Static
+  - Indexers
+  - Operator overload
+  - Relationship
+    - Composition
+    - Aggregation
+  - Full Demo
+- Exceptions
+- Unit Testing
+- Parameter type: params
+- Struct
+- Tuple
+- Introduction to Data Structures
+  - Linked List
+  - Doubled Linked List
+  - Queue
+  - Stack
+  - Set
+  - Hashtable
+  - Tree
+    - Binary Tree
+      - Traversal
+        - In-Order
+        - Pre-Order
+        - Post-Order
+        - By level
+    - Binary Search Tree (BST)
+      - Insert
+      - Find
+      - In-Order Traversal
+      - Remove
+  - Heap
+    - Definition
+    - Heapify
+    - Add (Push)
+    - Remove (Pop)
+    - Heap as array
+  - Graphs
+    - Definition
+    - Components
+    - Types
+    - Basic Operation
+    - Find Connection
+      - Depth First Search (DFS)
+      - Breadth First Search (BFS)
+    - Find Path
+      - Depth First Search (DFS)
+      - Breadth First Search (BFS)
+- Big O Notation
+- Binary Search
+- Sorting
+  - Bubble
+  - Selection
+  - Insertion
+  - Quick
+  - Merge
+  - Heap
+- Python Data Structures
+  - List
+  - Queue
+  - Stack
+  - Set
+  - Hash/Map
+  - Dictionary
+  - PriorityQueue
+- Python API
+  - Files
+    - Text
+    - XML
+    - JSON
+  - DateTime
+  - etc
 
 ## Introduction to SQL
 
-* Database Server
-  * SQL Server
-* Relational Database
-  * Table
-  * Field
-  * Record
-  * Data Modeling
-    * Relationships
-      * Primary Key
-      * Foreign Key
-* SQL
-  * Create Table
-  * Insert
-  * Update
-  * Delete
-  * Select
-    * Sorting
-    * Join
-    * MAX, MIN, SUM and AVG
-    * Count
-    * Group By
+- Database Server
+  - SQL Server
+- Relational Database
+  - Table
+  - Field
+  - Record
+  - Data Modeling
+    - Relationships
+      - Primary Key
+      - Foreign Key
+- SQL
+  - Create Table
+  - Insert
+  - Update
+  - Delete
+  - Select
+    - Sorting
+    - Join
+    - MAX, MIN, SUM and AVG
+    - Count
+    - Group By
 
 ## Accessing databases
 
 ## Introduction to Web Development
 
-* HTML
-* CSS
-* JavaScript
-* Web Development Java Script Framework
-  * Angular
-  * React
+- HTML
+- CSS
+- JavaScript
+- Web Development Java Script Framework
+  - Angular
+  - React
 
 ## Web Services/API
