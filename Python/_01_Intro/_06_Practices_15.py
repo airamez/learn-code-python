@@ -6,7 +6,7 @@ number2 = int(input("Number 2: "))
 
 print(f"Number 1 = {number1}; Number 2 = {number2}")
 
-"""
+""" Tradicional way for most program languages
 aux = number1
 number1 = number2
 number2 = aux
