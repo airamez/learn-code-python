@@ -30,7 +30,7 @@ Create programs to:
 19. Read the description, quantity and unit price of 3 products in a shopping cart and
     print the total sales tax and the total order amount. The sales tax is 12%
 20. Generate a random number from 0 to 9 and allow the user to try 3 times and
-    indicate somehowif the user guessed the generated random number correctly
+    indicate if the user guessed the generated random number correctly
 21. Generate two number from 0 to 100 (inclusive), allow the user to guess a number
     and indicate if the guessed number by the user is inside or outside of the interval
 22. Read the capacity of a water of tank and a bucket and calculate how many buckets
